@@ -1,0 +1,5 @@
+app/*
+!app/.gitkeep
+
+etc/nginx/htpasswd.d/*
+!etc/nginx/htpasswd.d/.gitkeep
